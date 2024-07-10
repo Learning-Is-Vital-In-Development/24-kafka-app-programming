@@ -89,8 +89,10 @@
 ## 차주까지 정리
 
 - Repository 가이드 정리
+  1. 해당 repository를 본인 repository로 `fork`
+  2. 스터디 및 실습 내용 주차별 `본인이름.md` 파일로 생성하여 push 하고 `PR 생성`
 - Kafka docker-compose yaml 파일
-- [docker-compose.yml](docker-compose.yml)
+  - [docker-compose.yml](docker-compose.yml)
 
 # 커리큘럼
 
